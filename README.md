@@ -9,3 +9,5 @@ I made this in my Security in Computing class. I added sample input files for th
 After running "javac hillcipher.java" to compile the code, you can run the program like so:
 
 java hillcipher inkey1.txt infile1.txt
+
+NOTE: The sample files on are feature/hillcipher branch
