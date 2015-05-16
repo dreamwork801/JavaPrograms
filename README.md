@@ -19,3 +19,6 @@ java crcheck c WC-ngi.txt
 
 For the verification part run this:
 java crcheck v WC-ngi.crc
+
+#[Animal Game](https://github.com/dreamwork801/javaprograms/tree/master/AnimalGame)
+I made this game in my first Java class to demonstrate interfaces in Java. The file AnimalTester has a menu that allows you to select from a zebra, lion, and dog. Each animal implements the interface Movements, which has several methods that each animal must implement. This allows you to have multiple animals, and makes sure each animal has the basic methods such as eat, drink, play.
