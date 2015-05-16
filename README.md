@@ -22,3 +22,8 @@ java crcheck v WC-ngi.crc
 
 #[Animal Game](https://github.com/dreamwork801/javaprograms/tree/master/AnimalGame)
 I made this game in my first Java class to demonstrate interfaces in Java. The file AnimalTester has a menu that allows you to select from a zebra, lion, and dog. Each animal implements the interface Movements, which has several methods that each animal must implement. This allows you to have multiple animals, and makes sure each animal has the basic methods such as eat, drink, play.
+
+#[Sierpinski Triangle Visualizer](https://github.com/dreamwork801/javaprograms/tree/master/SierpinskiVisualizer)
+A Sierpinski Triangle is made by taking an equilateral triangle and placing three triangles all around it. http://en.wikipedia.org/wiki/Sierpinski_triangle
+This is a GUI application in Java that allows you to have a max depth of ten, and allows you to chose the colors of each depth.
+
